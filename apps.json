@@ -5,7 +5,7 @@
     "description" : "winwin"
     "apps": [
       {
-        "name": "YoutubeLite",
+        "name": "YoutubePlus",
         "bundleIdentifier": "com.youtubelite.kashiza",
         "developerName": "999kashiza",
         "subtitle": "Unleash the full potential of YouTube.",
