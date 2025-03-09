@@ -17,6 +17,36 @@
         "tintColor": "95b5d6",
         "size": 117458000
       }
+
+
+      {
+        "name": "FlixHub",
+        "bundleIdentifier": "com.flixhubb.kashiza",
+        "developerName": "999kashiza",
+        "subtitle": "Unleash the full potential of YouTube.",
+        "version": "20.08.3",
+        "versionDate": "2025-03-08",
+        "description": "Watch any movies and series everywhere for FREE.",
+        "downloadURL": "https://1024terabox.com/s/1r3Z2WmfPeEAMyjFy_6Lfpw",
+        "iconURL": "https://raw.githubusercontent.com/0xKashiza/kashizarepo/refs/heads/main/icon/com.flixhub.webp",
+        "tintColor": "95b5d6",
+        "size": 31205000
+      }
+
+    
+      {
+        "name": "NOTDONE",
+        "bundleIdentifier": "com.youtubelite.kashiza",
+        "developerName": "999kashiza",
+        "subtitle": "Unleash the full potential of YouTube.",
+        "version": "20.08.3",
+        "versionDate": "2025-03-08",
+        "description": "Youtube Lite with all premium features",
+        "downloadURL": "https://1024terabox.com/s/1a_CQsLhn8Q9O6g-enSufEA",
+        "iconURL": "https://github.com/0xKashiza/kashizarepo/blob/995f3e834cf7932d10c7fceef1b1291bba70123f/icon/com.ytblite.1.png?raw=true",
+        "tintColor": "95b5d6",
+        "size": 117458000
+      }
       
     ]
   }
