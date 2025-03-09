@@ -1,7 +1,8 @@
 {
     "name": "999Kashiza's Repo",
     "iconURL" : "https://media.discordapp.net/attachments/1266175180913381429/1348241554795659315/IMG_4959.jpg?ex=67cebf4b&is=67cd6dcb&hm=235636d341330bcd1b8a57cd121c3c165fbe886f390b9f27f3177711e183255a&=&format=webp",
-    "identifier": "com.kshzrp.ipalibrary",
+    "identifier" : "com.kshzrp.ipalibrary",
+    "description" : "winwin"
     "apps": [
       {
         "name": "YoutubeLite",
